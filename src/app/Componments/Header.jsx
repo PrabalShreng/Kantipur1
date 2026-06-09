@@ -8,6 +8,9 @@ import { IoPersonCircleOutline } from "react-icons/io5";
 function Header() {
     return (
         <>
+        <section>
+            <img src="https://assets-cdn.ekantipur.com/uploads/source/ads/xtreme-banner-see-1352026054853.jpg" alt="" />
+        </section>
             <section className='py-2'>
                 <div className="container">
                     <div className="row">
