@@ -34,20 +34,20 @@ function Header() {
                         </div>
                         <div className="col-lg-9">
                             <ul className='d-flex gap-4 a,'>
-                                <Link href='/prabal/'><li className='text-black'>समाचार</li></Link>
-                               <Link href='/prabal/'> <li className='text-black'>अर्थ /वाणिज्य</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>विचार</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>विचार</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>खेलकुद</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>उपत्यका</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>मनोरञ्जन</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>फोटोफिचर</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>फिचर</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>विश्व</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>ब्लग</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>कोसेली</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>प्रवास</li></Link>
-                                <Link href='/prabal/'><li className='text-black'>शिक्षा</li></Link>
+                               <li><Link href='/prabal/'>समाचार</Link></li>
+                               <li><Link href='/prabal/'>अर्थ /वाणिज्य</Link></li>
+                                <li><Link href='/prabal/'>विचार</Link></li>
+                                <li><Link href='/prabal/'>विचार</Link></li>
+                                <li><Link href='/prabal/'>खेलकुद</Link></li>
+                                <li><Link href='/prabal/'>उपत्यका</Link></li>
+                                <li><Link href='/prabal/'>मनोरञ्जन</Link></li>
+                                <li><Link href='/prabal/'>फोटोफिचर</Link></li>
+                                <li><Link href='/prabal/'>फिचर</Link></li>
+                                <li><Link href='/prabal/'>विश्व</Link></li>
+                                <li><Link href='/prabal/'>ब्लग</Link></li>
+                                <li><Link href='/prabal/'>कोसेली</Link></li>
+                                <li><Link href='/prabal/'>प्रवास</Link></li>
+                                <li><Link href='/prabal/'>शिक्षा</Link></li>
                             </ul>
                         </div>
                         <div className="col-lg-2 d-flex">

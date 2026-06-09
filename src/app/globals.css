@@ -1,6 +1,14 @@
 .w{
   width: 25%;
 }
-.a{
+.w{
+  text-decoration: none;
   list-style: none;
+}
+a{
+  text-decoration: none !important;
+  color: black !important;
+}
+.nav-link-custom {
+    text-decoration: none;
 }
