@@ -9,7 +9,7 @@ function Header() {
     return (
         <>
         <section>
-            <img src="https://assets-cdn.ekantipur.com/uploads/source/ads/xtreme-banner-see-1352026054853.jpg" alt="" />
+            <img className='w-100' src="https://assets-cdn.ekantipur.com/uploads/source/ads/xtreme-banner-see-1352026054853.jpg" alt="" />
         </section>
             <section className='py-2'>
                 <div className="container">
